@@ -1,0 +1,37 @@
+{
+    "Tapped": {
+        "Binds": {
+            "Keybind": "RButton",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Color": {
+            "Saturation": 10
+        },
+        "Bezier": {
+            "LinearCurveX": 0.1,
+            "LinearCurveY": 0.1
+        },
+        "Easing": {
+            "SmoothnessX": 25,
+            "SmoothnessY": 25,
+            "SmoothingReplicatorX": 2,
+            "SmoothingReplicatorY": 2,
+            "SmoothingDividerX": 200,
+            "SmoothingDividerY": 200,
+            "Prediction": {
+                "Enabled": false
+            }
+        },
+        "Misc": {
+            "AimbotUpdateTick": 800,
+            "AimbotUpdateMS": 1200,
+            "CameraToGunFOV": 70,
+            "FlickTime": 0.25
+        },
+        "FOV": {
+            "FOVOffsetX": 3.0,
+            "FOVOffsetY": 3.0
+        }
+    }
+}
